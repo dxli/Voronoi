@@ -1,0 +1,4 @@
+construct Voronoi Cells from points within a periodic two dimensional cell (flat torus)
+to build,
+        cmake .
+        make
